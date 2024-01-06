@@ -1,6 +1,6 @@
 # Projektbeschreibung Gruppe E: Rechnungsprogramm
 
-- Ausschließlich für und mit SQL Server 2019 entwickelt
+- Ausschließlich mit SQL Server 2022 entwickelt
 
 ## Businesslogik
 
